@@ -10,3 +10,8 @@ mvn spring-boot:run
 
 http://localhost:8080
 
+
+## Commentaire
+
+Simple application CRUD pour expérimenter l'ajout, la modification, la suppression avec angular et spring-boot
+
