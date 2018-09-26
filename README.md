@@ -15,3 +15,5 @@ http://localhost:8080
 
 Simple application CRUD pour expérimenter l'ajout, la modification, la suppression avec angular et spring-boot
 
+Lien source : https://o7planning.org/en/11793/crud-example-with-spring-boot-rest-and-angularjs
+
